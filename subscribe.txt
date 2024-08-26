@@ -1,0 +1,23 @@
+<section class="subscribe text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="subs-container">
+                        <h2 class="title mb-3">Email Now</h2>
+                        <p></p>
+                        <form class="form mt-3">
+                            <div class="form-check mb-3"> <label class="form-check-label"> <input type="checkbox"
+                                        name="checkbox"> <small>Yes, I would like to receive communications by email.
+                                    </small></label>
+                            </div>
+                            <div class="input-group">
+                                <input name="email" type="email" class="form-control" placeholder="Enter your email"
+                                    required>
+                                <button class="btn" type="submit"><i class="fa fa-paper-plane"></i></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

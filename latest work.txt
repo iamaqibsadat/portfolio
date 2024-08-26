@@ -1,0 +1,84 @@
+
+                    <!-- PORTFOLIO ITEM-->
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 filtr-item" data-category="3">
+                        <div class="port-caption">
+                            <!-- PORTFOLIO IMAGE -->
+                            <img src="img/portfolio/portfolio-03.jpg" alt="portfolio-03" />
+                            <!-- PORTFOLIO TITLE -->
+                            <div class="overlay">
+                                <div class="view-more">
+                                    <h5 class="title mb-3">Branding</h5>
+                                    <a href="img/portfolio/portfolio-03.jpg" data-lightbox="mygallery"
+                                        data-title="This is a caption for this photo">
+                                        <i class="fa fa-arrows-alt fa-lg fa-fw"></i>
+                                    </a>
+                                    <a href="#0">
+                                        <i class="fa fa-link fa-lg fa-fw"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- PORTFOLIO ITEM-->
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 filtr-item" data-category="4">
+                        <div class="port-caption">
+                            <!-- PORTFOLIO IMAGE -->
+                            <img src="img/portfolio/portfolio-04.jpg" alt="portfolio-04" />
+                            <!-- PORTFOLIO TITLE -->
+                            <div class="overlay">
+                                <div class="view-more">
+                                    <h5 class="title mb-3">Branding</h5>
+                                    <a href="img/portfolio/portfolio-04.jpg" data-lightbox="mygallery"
+                                        data-title="This is a caption for this photo">
+                                        <i class="fa fa-arrows-alt fa-lg fa-fw"></i>
+                                    </a>
+                                    <a href="#0">
+                                        <i class="fa fa-link fa-lg fa-fw"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- PORTFOLIO ITEM-->
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 filtr-item" data-category="5">
+                        <div class="port-caption">
+                            <!-- PORTFOLIO IMAGE -->
+                            <img src="img/portfolio/portfolio-05.jpg" alt="portfolio-05" />
+                            <!-- PORTFOLIO TITLE -->
+                            <div class="overlay">
+                                <div class="view-more">
+                                    <h5 class="title mb-3">Branding</h5>
+                                    <a href="img/portfolio/portfolio-05.jpg" data-lightbox="mygallery"
+                                        data-title="This is a caption for this photo">
+                                        <i class="fa fa-arrows-alt fa-lg fa-fw"></i>
+                                    </a>
+                                    <a href="#0">
+                                        <i class="fa fa-link fa-lg fa-fw"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- PORTFOLIO ITEM-->
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 filtr-item" data-category="6">
+                        <div class="port-caption">
+                            <!-- PORTFOLIO IMAGE -->
+                            <img src="img/portfolio/portfolio-06.jpg" alt="portfolio-06" />
+                            <!-- PORTFOLIO TITLE -->
+                            <div class="overlay">
+                                <div class="view-more">
+                                    <h5 class="title mb-3">Branding</h5>
+                                    <a href="img/portfolio/portfolio-06.jpg" data-lightbox="mygallery"
+                                        data-title="This is a caption for this photo">
+                                        <i class="fa fa-arrows-alt fa-lg fa-fw"></i>
+                                    </a>
+                                    <a href="#0">
+                                        <i class="fa fa-link fa-lg fa-fw"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
